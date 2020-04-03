@@ -32,6 +32,7 @@ export default class GameControl extends cc.Component {
     }
 
     protected start() {
+        cc.view.enableAutoFullScreen(true);
         this.init();
         this.GameStartNode.on(cc.Node.EventType.TOUCH_START, this.startGame, this);
     }

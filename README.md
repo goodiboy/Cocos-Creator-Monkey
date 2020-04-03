@@ -18,4 +18,7 @@
 
 - 添加游戏音效
 
+- [项目预览地址](http://www.gdrcz.com/item/Monkey/index.html) ,服务器很慢，需要加载一定的时间
+
   
+
